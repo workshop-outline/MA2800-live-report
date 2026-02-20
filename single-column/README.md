@@ -1,0 +1,5 @@
+This first layout workshop introduces a simple, repeatable page structure you can reuse for your MA2800 **Online Research Document**: a clear header (title + short intro) and a vertical column of “posts” that each contain an image and a caption. The sample content (cats and dogs) is only there so you can focus on layout, spacing, and readability rather than the topic.
+
+The key idea is that this same layout can later become your research format for **case studies, visual references, screenshots, and short commentary**, with links back to sources. In this exercise you should practise keeping a consistent structure across posts (image + caption + optional link), and using CSS to control width, alignment, and spacing so your research page stays clear and easy to read.
+
+If you want to extend the layout, you can also add **video** inside one of the post containers. Try replacing an image with the HTML `<video>` tag (with `controls`) so your research page can include short clips or documentation from your live report process.
